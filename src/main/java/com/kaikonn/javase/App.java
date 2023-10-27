@@ -19,5 +19,6 @@ public class App {
                 sum++;
             }
         }
+        System.out.println("123");
     }
 }
